@@ -1,0 +1,9 @@
+UNIX COMMANDS REFERENCE (Ex. No: 2.2)
+
+DATE, CAL, ECHO, WHO, WHO AM I, TTY, BC, CLEAR, MAN, TPUT,
+LS and their variants -- refer to lab manual document for full syntax table.
+
+Directory commands: PWD, MKDIR, CD, RMDIR
+File commands: CAT, SORT, CP, MV, RM, WC, LP, PG
+Filters/pipes: HEAD, TAIL, MORE, GREP, SORT, PIPE, TR
+Communication commands: MESG, WRITE, WALL, MAIL, REPLY
