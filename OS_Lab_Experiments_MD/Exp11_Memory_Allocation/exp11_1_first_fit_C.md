@@ -48,12 +48,7 @@ int main()
 }
 ```
 
-## How to Compile & Run
 
-```bash
-gcc exp11_1_first_fit.c -o exp11_1_first_fit
-./exp11_1_first_fit
-```
 
 ## Output
 
@@ -61,5 +56,6 @@ gcc exp11_1_first_fit.c -o exp11_1_first_fit
      Recommended: save the image inside this folder's `screenshots/` directory
      and reference it here, e.g. screenshots/exp11_1_first_fit_output.png -->
 
-![Output Screenshot](screenshots/exp11_1_first_fit_output.png)
+![Output Screenshot](screenshot:<img width="1325" height="606" alt="image" src="https://github.com/user-attachments/assets/2d7d1d1f-5702-4948-8881-18dba35c51bb" />)
+
 
