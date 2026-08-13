@@ -1,7 +1,6 @@
 # Memory Allocation Methods — First Fit (C Program)
 
-## Aim
-To write a C program to implement **First Fit** as part of the *Memory Allocation Methods* experiment.
+
 
 ## Program
 ```c
