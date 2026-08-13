@@ -52,10 +52,9 @@ int main()
 
 ## Output
 
-<!-- Paste your terminal output screenshot below.
-     Recommended: save the image inside this folder's `screenshots/` directory
-     and reference it here, e.g. screenshots/exp11_1_first_fit_output.png -->
 
-![Output Screenshot](screenshot:<img width="1325" height="606" alt="image" src="https://github.com/user-attachments/assets/2d7d1d1f-5702-4948-8881-18dba35c51bb" />)
+
+![Output Screenshot] <img width="1325" height="606" alt="image" src="https://github.com/user-attachments/assets/f5af8628-fbe3-4d85-8fdd-8b853e220257" />
+
 
 
