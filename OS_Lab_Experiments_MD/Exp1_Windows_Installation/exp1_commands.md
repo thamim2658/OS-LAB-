@@ -1,0 +1,26 @@
+# Installation of Windows OS — Reference Notes
+
+```
+Ex. No: 1 - Installation of Windows Operating System
+
+Commands Used
+--------------
+1. Display Windows Version
+winver
+
+2. Display System Information
+systeminfo
+
+3. Display Computer Name
+hostname
+
+4. Display Disk Information
+diskpart
+list disk
+
+5. Check Windows Activation Status
+slmgr /xpr
+
+6. Display IP Configuration
+ipconfig
+```
